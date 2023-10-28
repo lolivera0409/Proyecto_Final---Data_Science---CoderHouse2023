@@ -7,15 +7,15 @@ Tiene como objetivo evaluar la influencia del género de los videojuegos en dive
 
 Para la realización de este repositorio, se utilizó Google Collab con Python3 y las siguientes paqueterías:
 
-  • [Pandas] (https://pandas.pydata.org/)
+  • [Pandas](https://pandas.pydata.org/)
   
-  • [NumPy] (https://numpy.org/)
+  • [NumPy](https://numpy.org/)
   
-  • [Tabulate] (https://pypi.org/project/tabulate/)
+  • [Tabulate](https://pypi.org/project/tabulate/)
   
-  • [Matplotlib] (https://matplotlib.org/)
+  • [Matplotlib](https://matplotlib.org/)
   
-  • [Scikit-Learn] (https://scikit-learn.org/stable/)
+  • [Scikit-Learn](https://scikit-learn.org/stable/)
   
 Para instalar las paqueterías mencionadas previamente, se utilizan los siguientes comandos en la Terminal del Sistema (CMD), o directamente desde Google Collab:
   
