@@ -1,11 +1,14 @@
 # Géneros de videojuegos y su éxito en ventas: Un Análisis Regional
+
 Proyecto de Graduación del curso Data Science 2023 de CoderHouse, Comisión 41875.
+
 Desarrollado a lo largo del año 2023 en múltiples fases.
+
 Tiene como objetivo evaluar la influencia del género de los videojuegos en diversas regiones y su impacto en las ventas.
 
 # Prerequisitos
 
-Para la realización de este repositorio, se utilizó Google Collab con Python3 y las siguientes paqueterías:
+**Para la realización de este repositorio, se utilizó Google Collab con Python3 y las siguientes paqueterías:**
 
   • [Pandas](https://pandas.pydata.org/)
   
@@ -17,7 +20,7 @@ Para la realización de este repositorio, se utilizó Google Collab con Python3 
   
   • [Scikit-Learn](https://scikit-learn.org/stable/)
   
-Para instalar las paqueterías mencionadas previamente, se utilizan los siguientes comandos en la Terminal del Sistema (CMD), o directamente desde Google Collab:
+**Para instalar las paqueterías mencionadas previamente, se utilizan los siguientes comandos en la Terminal del Sistema (CMD), o directamente desde Google Collab:**
   
   • pip install pandas
   
@@ -34,7 +37,7 @@ La paquetería "Warnings" viene por defecto incluida con Python, por lo que no s
 
 # Estructura del proyecto
 
-Este proyecto cuenta con los siguientes archivos:
+**Este proyecto cuenta con los siguientes archivos:**
 
   • Documentación_Proyecto (Documento en formato PDF, una guía de qué ideas se tuvo al implementar el código y una suma de los resultados obtenidos)
   
@@ -43,8 +46,8 @@ Este proyecto cuenta con los siguientes archivos:
   • Pruebas_Notebook_Proyecto (Pruebas conjuntas del código. Contiene la búsqueda de hiperparámetros, la búsqueda de diferentes modelos y algunas notas extra, paqueterías no usadas, etc)
   
 
-Datos a destacar:
-
+**Datos a destacar:**
+  
   • Documentación_Proyecto contiene enlaces que llevan tanto al dataset, como a oportunidades de mejora para el mismo, además de las conclusiones obtenidas
   
   • Notebook_Proyecto toma aproximadamente 120 segundos en correr
